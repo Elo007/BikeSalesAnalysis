@@ -14,5 +14,10 @@
 * Average income of male vs female customers 
 
  
+ # Dataset 
+ 
+ 
+ You can download the dataset here: https://github.com/Elo007/BikeSalesAnalysis/blob/main/Bike%20Sale%20Project.xlsx
+
  
 
